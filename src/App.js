@@ -2,6 +2,7 @@ import React from 'react'
 import Home from './component/Home'
 import {Link, Route} from 'react-router-dom'
 import SearchResult from './component/SearchResult'
+import './style.css'
 
 const App =()=>{
     return <>
